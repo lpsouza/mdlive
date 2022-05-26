@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "author": "Eduardo Eidelwein Berlitz",
   "devDependencies": {
-    "grunt": "~1.5.0",
+    "grunt": "~1.5.3",
     "grunt-contrib-connect": "^3.0.0",
     "grunt-contrib-watch": "^1.1.0"
   }
