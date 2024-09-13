@@ -1,13 +1,14 @@
-mdlive
-======
+# mdlive
+
+**Important**: This project is archived and no longer maintained.
 
 Cooperative Markdown Editor based on [Firepad.io](http://www.firepad.io/).
 
-## TODO
+## ~~TODO~~
 
-* Improve buttons "Slides" and "Preview"
-	* Create URL creation to slides and preview mode
+* ~~Improve buttons "Slides" and "Preview"~~
+  * ~~Create URL creation to slides and preview mode~~
 
-## DOING
+## ~~DOING~~
 
-* Cleanup and organize the code
+* ~~Cleanup and organize the code~~
